@@ -1,1 +1,6 @@
 @import './home.css';
+@import './info.css';
+
+.inspirerendeFoto {
+  width: 100%;
+}

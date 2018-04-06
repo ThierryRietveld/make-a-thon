@@ -12,6 +12,7 @@ class App extends Component {
       <div className="App">
         <Home />
         <Info />
+        <img src="http://joaoperibeiro.com/wp-content/uploads/2015/11/any-fool-can-write-code-small.png" className="inspirerendeFoto" />
         <Contact />
       </div>
     );
