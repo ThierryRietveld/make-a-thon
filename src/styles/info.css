@@ -1,0 +1,11 @@
+.info {
+  width: 100%;
+  background: lightgray;
+  font-size: 30px;
+}
+
+.info .container {
+  width: 80%;
+  margin: 0 100px;
+  padding: 20px 0;
+}
